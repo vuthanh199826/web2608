@@ -1,0 +1,38 @@
+.nav-item{
+    font-size: 20px;
+}
+.nav-link:hover{
+    color: #ff6700 !important;
+    background-color: #8d21bb;
+}
+.dropdown-item{
+color: aliceblue;
+}
+.dropdown-item:hover{
+    background-color: #ff6700;
+}
+.row{
+    margin-top: 20px;
+}
+
+.container .row .col-6 .col-3 {
+    float: left;
+    font-size: 13px;
+    text-align: center;
+}
+.container .row .col-6 .col-3:hover {
+color: #ff6700;
+    cursor: pointer;
+    font-family: "Times New Roman";
+}
+ body{
+
+     background-size: cover;
+ }
+ #top{
+     background: url("https://media.giphy.com/media/ytwDCy4skFkEzyw4G4/giphy.gif");
+ }
+ #ul1{
+     background-color: dimgrey;
+ }
+
